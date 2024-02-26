@@ -1,0 +1,12 @@
+Valentin Mazurier :
+  Barre de vie
+  Ecran titre
+  Ecran de Game Over
+  plan du dongeon
+  Affichage du sprite et création du Héros
+  Création du patterne simple pour le boss
+
+Yannick Hebert :
+  Affichage sprite du boss
+  Affichage sprites du sol et murs du dongeon
+  Affichage du sprite et création du Héros
